@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Turki
 
-<!--
-**CyberDFIR/CyberDFIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity practitioner focused on becoming solid in DFIR.  
+Currently working in the field and sharpening my skills through SOC training 
 
-Here are some ideas to get you started:
+## What I'm About
+- Building a strong foundation in digital forensics and incident response  
+- Expanding my detection, triage, and threat-hunting workflow  
+- Learning to break down incidents fast and clean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+- SOC workflows and real-world alert analysis training
+- Python training for automation, parsing, and tooling  
+
+## What’s Next
+Pushing toward professional-level DFIR skills and stacking projects that show real capability, not theory.
+
+
