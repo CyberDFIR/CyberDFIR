@@ -1,0 +1,50 @@
+ERROR: Database connection timeout.
+INFO: User Omar changed password.
+ERROR: 404 Page not found.
+INFO: User Omar changed password.
+INFO: User Omar changed password.
+ERROR: Database connection timeout.
+ERROR: Database connection timeout.
+ERROR: Failed to write to disk.
+ERROR: 404 Page not found.
+ERROR: Failed to write to disk.
+WARNING: High memory usage detected.
+INFO: User Sarah uploaded a photo.
+WARNING: High memory usage detected.
+ERROR: Failed to write to disk.
+ERROR: 404 Page not found.
+WARNING: High memory usage detected.
+INFO: User Sarah uploaded a photo.
+INFO: Scheduled backup completed.
+INFO: User Omar changed password.
+INFO: User Omar changed password.
+ERROR: Failed to write to disk.
+ERROR: Database connection timeout.
+WARNING: High memory usage detected.
+INFO: User Sarah uploaded a photo.
+ERROR: Failed to write to disk.
+ERROR: Database connection timeout.
+INFO: User Omar changed password.
+INFO: User Omar changed password.
+ERROR: Failed to write to disk.
+INFO: User Ayham logged in.
+ERROR: 404 Page not found.
+INFO: Scheduled backup completed.
+INFO: User Omar changed password.
+INFO: User Sarah uploaded a photo.
+WARNING: High memory usage detected.
+WARNING: High memory usage detected.
+INFO: User Omar changed password.
+ERROR: Database connection timeout.
+WARNING: Disk space is 80% full.
+ERROR: Database connection timeout.
+INFO: User Ayham logged in.
+ERROR: Failed to write to disk.
+INFO: User Sarah uploaded a photo.
+WARNING: Disk space is 80% full.
+INFO: User Ayham logged in.
+INFO: User Ayham logged in.
+INFO: User Sarah uploaded a photo.
+INFO: User Sarah uploaded a photo.
+ERROR: Failed to write to disk.
+INFO: User Sarah uploaded a photo.
